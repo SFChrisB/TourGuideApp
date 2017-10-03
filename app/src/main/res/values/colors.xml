@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#b1bbbc</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#616768</color>
+
+    <!-- accent color of the app (shown in the status bar) -->
+    <color name="colorAccent">#7fbac4</color>
+
+    <!-- Background color for app -->
+    <color name="background_color">#e0e0e0</color>
+
+    <!-- Background color for the attractions category db7d4e -->
+    <color name="place_attractions">#db7d4e</color>
+
+    <!-- Background color for the museum category b8d87b -->
+    <color name="place_museums">#15915d</color>
+
+    <!-- Background colour for the restaurants category dbbc7a -->
+    <color name="place_restaurants">#dbbc7a</color>
+
+    <!-- Background colour for the barspubs category -->
+    <color name="place_bars">#e04168</color>
+
+    <!-- Font colours TextViews -->
+    <color name="text_color_name">#b6f4f9</color>
+    <color name="text_color">#27213a</color>
+
+</resources>

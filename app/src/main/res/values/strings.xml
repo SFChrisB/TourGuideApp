@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <!-- Category names for the PagerAdapter Names -->
+    <string name="category_attractions">Attractions</string>
+    <string name="category_bars">Bars</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Information on the Attraction ArrayList -->
+    <string name="A_Name1">Wimbledon Lawn Tennis Museum</string>
+    <string name="A_Name2">London Wetland Centre</string>
+    <string name="A_Name3">Brixton Windmill</string>
+    <string name="A_Name4">London\'s Roman Amphitheatre</string>
+    <string name="A_Name5">Eel Pie Island</string>
+    <string name="A_Name6">Lord\'s</string>
+    <string name="A_Name7">Eltham Palace</string>
+    <string name="A_Name8">Wiltons Music Hall</string>
+    <string name="A_Name9">Lee Valley VeloPark</string>
+    <string name="A_Name10">Emirates Air Line</string>
+    <string name="A_Name11">Foundling Museum</string>
+    <string name="A_Name12">Freud Museum</string>
+    <string name="A_Name13">William Morris Gallery</string>
+    <string name="A_Name14">B Afternoon Tea Bus Tour</string>
+
+    <string name="A_Address1">Wimbledon SW19 5AE</string>
+    <string name="A_Address2">Barnes SW13 9WT</string>
+    <string name="A_Address3">Brixton SW2 5EU</string>
+    <string name="A_Address4">Mansion EC2V 5AE</string>
+    <string name="A_Address5">Twickenham TW1 3DY</string>
+    <string name="A_Address6">St Johns Wood NW8 8QN</string>
+    <string name="A_Address7">Eltham SE9 5QE</string>
+    <string name="A_Address8">Wapping E1 8JB</string>
+    <string name="A_Address9">Stratford E20 3EL</string>
+    <string name="A_Address10">Canning Town E16 4FA</string>
+    <string name="A_Address11">Bloomsbury WC1N 1AZ</string>
+    <string name="A_Address12">Frognal NW3 5SX</string>
+    <string name="A_Address13">Walthamstow E17 4PP</string>
+    <string name="A_Address14">Covent Garden WC2N 4HU</string>
+
+    <string name="A_Descript1">Showcases the best and most dramatic events from Wimbledon Tennis\'s history.</string>
+    <string name="A_Descript2">An urban oasis of lakes and ponds.</string>
+    <string name="A_Descript3">Tours around this black painted windmill</string>
+    <string name="A_Descript4">A walk-in excavation of an amphitheatre from when London was Londinium.</string>
+    <string name="A_Descript5">A small island on the Thames that holds art that has a nature reserve and Artist Studio</string>
+    <string name="A_Descript6">A museum and cricket ground</string>
+    <string name="A_Descript7">An old medieval palace with stunning 1930\'s art deco inside</string>
+    <string name="A_Descript8">An old Victorian performance hall that still holds events.</string>
+    <string name="A_Descript9">A cycling and BMX track for people to try.</string>
+    <string name="A_Descript10">Sky-high view of London</string>
+    <string name="A_Descript11">A museum exhibiting the Foundling Hospital and it\'s artefacts</string>
+    <string name="A_Descript12">Sigmund Freud\'s family house after fleeing from Austria</string>
+    <string name="A_Descript13">A gallery of Arts and Crafts to explore</string>
+    <string name="A_Descript14">London sights on a vintage 1960 Routemaster, with afternoon tea on the Thames.</string>
+
+    <!-- Information on the Musuems Arraylist -->
+    <string name="M_Name1">National Gallery</string>
+    <string name="M_Name2">Natural History Museum</string>
+    <string name="M_Name3">British Museum</string>
+    <string name="M_Name4">Tate Modern</string>
+    <string name="M_Name5">Science Museum</string>
+    <string name="M_Name6">London Transport Museum</string>
+    <string name="M_Name7">Imperial War Museum</string>
+    <string name="M_Name8">National Maritime Museum</string>
+
+    <string name="M_Address1">Trafalger Square WC2N 5DN</string>
+    <string name="M_Address2">Brompton SW7 5BD</string>
+    <string name="M_Address3">Bloomsbury WC1B 3DG</string>
+    <string name="M_Address4">SouthBank SE1 9TG</string>
+    <string name="M_Address5">Brompton SW7 2DD</string>
+    <string name="M_Address6">Covent Garden WC2E 7BB</string>
+    <string name="M_Address7">Kennington SE1 6HZ</string>
+    <string name="M_Address8">Greenwich SE10 9NF</string>
+
+    <string name="M_Descript1">New art collection for enjoyment and education</string>
+    <string name="M_Descript2">Displays and exhibitions of plants, animals, fossils and minerals through the years</string>
+    <string name="M_Descript3">London\'s home for ancient finds and cultural treasures</string>
+    <string name="M_Descript4">Modern Art gallery</string>
+    <string name="M_Descript5">Educating and exciting science showcases.</string>
+    <string name="M_Descript6">London\'s transport through the ages</string>
+    <string name="M_Descript7">A museum showcasing many war artefacts</string>
+    <string name="M_Descript8">The maritime exhibition and treasure trove</string>
+
+    <!-- Information on the Restaurants Arraylist -->
+    <string name="R_Name1">Apres Food Co</string>
+    <string name="R_Name2">Hawksmoor Borough</string>
+    <string name="R_Name3">The Cheese Bar</string>
+    <string name="R_Name4">Kricket</string>
+    <string name="R_Name5">Club Mexicano at Pamela</string>
+    <string name="R_Name6">Plot</string>
+    <string name="R_Name7">Malibu kitchen at the Ned</string>
+    <string name="R_Name8">Monty\'s Deli</string>
+    <string name="R_Name9">The other Naughty Piglet</string>
+    <string name="R_Name10">Henrietta</string>
+
+    <string name="R_Address1">Farringdon EC1 M4DT</string>
+    <string name="R_Address2">Southbank SE1 9AQ</string>
+    <string name="R_Address3">Chalk Farm NW1 8AH</string>
+    <string name="R_Address4">Picadilly Circus W1D 7HH</string>
+    <string name="R_Address5">Kingsland E8 4AA</string>
+    <string name="R_Address6">Tooting SW17 0RL</string>
+    <string name="R_Address7">Mansion House EC2R 8AJ</string>
+    <string name="R_Address8">Hoxton N1 5LG</string>
+    <string name="R_Address9">St James Park SW1E 5JA</string>
+    <string name="R_Address10">Covent garden WC2E 8QH</string>
+
+    <string name="R_Descript1">Serving healthy deserts</string>
+    <string name="R_Descript2">A steakhouse restaurant</string>
+    <string name="R_Descript3">A restaurant that specialises in cheese related dishes.</string>
+    <string name="R_Descript4">A modern indian inspired restaurant</string>
+    <string name="R_Descript5">A vegan mexican street food stall</string>
+    <string name="R_Descript6">A small plates british restaurant</string>
+    <string name="R_Descript7">A clean-eating restaurant within hotel \'the Neds\'</string>
+    <string name="R_Descript8">A deli-diner at the maltby Street Market</string>
+    <string name="R_Descript9">A wine bar with a focus on really good food</string>
+    <string name="R_Descript10">The latest venture but superchef Ollie Dabbous at a fashionable boutique hotel.</string>
+
+    <!-- Information on the Bars/Pubs Arraylist -->
+    <string name="B_Name1">Oriole</string>
+    <string name="B_Name2">Black Rock</string>
+    <string name="B_Name3">Bar Termini</string>
+    <string name="B_Name4">Swift</string>
+    <string name="B_Name5">Dandelyan</string>
+    <string name="B_Name6">Peg and Patriot</string>
+
+    <string name="B_Address1">Farringdon EC1A 9LH</string>
+    <string name="B_Address2">Shoreditch EC2A 2BS</string>
+    <string name="B_Address3">Soho W1D 5JE</string>
+    <string name="B_Address4">Soho W1D 4TQ</string>
+    <string name="B_Address5">Southbank SE1 9PD</string>
+    <string name="B_Address6">Bethnal Green E2 9NF</string>
+
+    <string name="B_Descript1">Classy Cocktail bar</string>
+    <string name="B_Descript2">Atmospheric bar selling a variety of wines</string>
+    <string name="B_Descript3">Coffee and cocktails bar</string>
+    <string name="B_Descript4">A fairly newish bar that has two floors, each with contrasting atmospheres</string>
+    <string name="B_Descript5">Winner of world\'s best cocktail menu (2016)</string>
+    <string name="B_Descript6">A \'pun\'-tastic bar part of a hotel.</string>
+</resources>
